@@ -1,0 +1,9 @@
+#container{
+  width: 350px;
+  border: 2px solid gray;
+  margin: 0 auto;
+}
+.completedItem{
+  text-decoration: line-through;
+  color: gray;
+}
